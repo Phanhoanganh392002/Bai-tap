@@ -1,0 +1,16 @@
+.chialayer {
+    max-width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.main {
+    float: left;
+    width: 65%;
+    height: 5600px ;
+}
+
+p {
+    line-height: 30px;
+
+}
